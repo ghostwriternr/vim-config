@@ -68,3 +68,5 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
+colorscheme wal
+set incsearch
